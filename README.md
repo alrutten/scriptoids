@@ -1,2 +1,2 @@
 # scriptoids
-somewhat random tidbits
+somewhat random tidbits that i want to keep track of
